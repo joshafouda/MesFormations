@@ -23,8 +23,8 @@ st.write(" ")
 
 # Ajouter un bouton pour télécharger le programme au format PDF
 pdf_link = "https://drive.google.com/file/d/1qXms9mpZpqvBTXxEqKyvlFNuzHV-ZOOY/view?usp=sharing"
-if st.button('Download Program PDF'):
-    st.markdown(f'<a href="{pdf_link}" download>Téléchargez le Programme de la Formation</a>', unsafe_allow_html=True)
+if st.button('Téléchargez le Programme de Formation en PDF'):
+    st.markdown(f'<a href="{pdf_link}" download>Cliquez ici pour télécharger le Programme de la Formation</a>', unsafe_allow_html=True)
 
 st.write(" ")
 
@@ -32,14 +32,14 @@ st.write(" ")
 st.subheader("Inscription à la formation")
 registration_link = "https://forms.gle/oZsH5Er8923jHShWA"
 if st.button("S'inscrire", key='inscription'):
-    new_tab = f'<a href="{registration_link}" target="_blank">Cliquez ici pour vous inscrire</a>'
+    new_tab = f'<a href="{registration_link}" target="_blank">Cliquez ici pour vous inscrire à la Formation</a>'
     st.markdown(new_tab, unsafe_allow_html=True)
 
 
 st.write(" ")
 
 # Payment Button
-st.subheader("Paiment des Frais de Formation")
+st.subheader("Paiement des Frais de Formation")
 payment_link = "https://forms.gle/oZsH5Er8923jHShWA"
 if st.button("Payez", key='payment'):
     new_tab = f'<a href="{payment_link}" target="_blank">Cliquez ici pour payer votre participation</a>'

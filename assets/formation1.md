@@ -156,6 +156,14 @@ Appliquer les compétences acquises pour construire un dashboard complet pour un
 
    - Conseils et meilleures pratiques pour un code Shiny propre et maintenable
 
+Voici les images de quelaues pages du dashboard que vous allez construire :
+
+![](https://github.com/joshafouda/MesFormations/blob/main/assets/menu1.png?raw=true)
+
+![](https://github.com/joshafouda/MesFormations/blob/main/assets/menu2.png?raw=true)
+
+![](https://github.com/joshafouda/MesFormations/blob/main/assets/menu3.png?raw=true)
+
 ## Bonus : Projet à réaliser
 
 Pour pratiquer tout ce que vous avez appris lors de cette formation, vous aurez un projet à réaliser. Vous soumettrez votre réalisation à la correction du Formateur afin de recevoir des conseils d'amélioration et de vous débloquer en cas de blocage.
