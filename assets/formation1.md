@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-Bienvenue à notre formation pratique conçue pour aspirants Data Analysts et professionnels. Apprenez à utiliser SQL pour l'analyse exploratoire des données et maîtrisez la création de dashboards interactifs avec Shiny et Shinydashboard. Ce programme vous guidera à travers chaque étape, de l'analyse de données brutes à la création de visualisations interactives pour des décisions business éclairées.
+Bienvenue à notre formation pratique conçue pour aspirants Data Analysts et professionnels. Apprenez à utiliser SQL pour l'analyse exploratoire des données et maîtrisez la création de dashboards interactifs avec R Shiny et Shinydashboard. Ce programme vous guidera à travers chaque étape, de l'analyse de données brutes à la création de visualisations interactives pour des décisions business éclairées.
 
 A travers cette formation, vous apprendrez à :
 
@@ -12,7 +12,7 @@ A travers cette formation, vous apprendrez à :
 
 - Comprendre et utiliser les requêtes SQL simples et avancées pour extraire et analyser des données afin de répondre à des questions commerciales ;
 
-- Réaliser un Rapport d'analyse exploratoire des données comprenat des tables et graphiques en utilisant RMarkdown ;
+- Réaliser un Rapport d'analyse exploratoire des données comprenant des tables et graphiques en utilisant RMarkdown ;
 
 - Utiliser le package ***shinydashboard*** pour la construction de tableaux de bords ;
 
@@ -115,7 +115,7 @@ Développer des dashboards interactifs et professionnels avec Shiny et Shinydash
 
    - Structurer l'interface Utilisateur (UI)
 
-   - Création des sorties (tabbles, graphiques) dans la partie serveur
+   - Création des sorties (tables, graphiques) dans la partie serveur
 
    - Ajoutez des éléments interactifs et dynamiques dans le tableau de bord.
 
@@ -123,7 +123,7 @@ Développer des dashboards interactifs et professionnels avec Shiny et Shinydash
 
    - Structurer un projet *.Rproj* pour la construire d'une Multi-App Shiny
 
-   - COnstruire un template que vous pourez utiliser dans n'importe quel projet
+   - Construire un template que vous pourrez utiliser dans n'importe quel projet
 
 
 ## **Module 3: Construction d’un Dashboard pour une Société de Location de Films**
@@ -156,7 +156,7 @@ Appliquer les compétences acquises pour construire un dashboard complet pour un
 
    - Conseils et meilleures pratiques pour un code Shiny propre et maintenable
 
-Voici les images de quelaues pages du dashboard que vous allez construire :
+Voici les images de quelques pages du dashboard que vous allez construire :
 
 ![](https://github.com/joshafouda/MesFormations/blob/main/assets/menu1.png?raw=true)
 
@@ -207,6 +207,19 @@ Pour pratiquer tout ce que vous avez appris lors de cette formation, vous aurez 
 Rejoignez-nous pour cette formation et transformez votre manière d'analyser et de visualiser les données pour des décisions business stratégiques.
 
 
+## Modalités de Participation à la formation
+
+Cette formation se déroulera en ligne sous forme d'une réunion avec tous les participant(e)s et le Formateur. C'est pour cela, il est très important de povoir disposer d'une bonne connexion Internet. Pour participer :
+
+- S'inscrire en remplissant ce [Formulaire d'inscription](https://forms.gle/oZsH5Er8923jHShWA). Veuillez renseigner une adresse e-mail car c'est sur cette adresse que le lien de la réunion vous sera communiqué.
+
+- Payez les frais de participation en cliquant sur ce [Lien de Paiement sécurisé Stripe](https://buy.stripe.com/fZeaIGaVw4EG80w28u). Les frais de formation doivent être réglés au plus tard 24 heures avant le début de la formation (Le Jour et l'Heure de la formation sont mentionnées dans le formulaire d'inscription).
+
+Après confirmation de votre paiement, vous verrez instantanément le lien de la réunion. Ce lien vous sera également envoyé dans votre boîte Mail.
+
+
 ## **Conclusion**
 
 Cette formation vous fournira les compétences nécessaires pour devenir un Data Analyst efficace, capable d'extraire des insights pertinents des données et de les visualiser de manière interactive pour répondre aux besoins business. Vous serez en mesure de créer des dashboards professionnels qui apporteront une valeur ajoutée significative à toute organisation.
+
+![](https://github.com/joshafouda/MesFormations/blob/main/assets/formation1.png?raw=true)
