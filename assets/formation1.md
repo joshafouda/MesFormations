@@ -20,6 +20,26 @@ A travers cette formation, vous apprendrez à :
 
 - Réaliser un tableau de bord interactif pour restituer vos travaux d'analyses Business dans le cadre d'une mission en tant que Consultant(e) Business Intelligence. 
 
+
+## **Public Cible :**
+
+- Aspirants Data Analysts 
+
+- Professionnels de Business Intelligence souhaitant améliorer leurs compétences
+
+- Toute personne intéressée par l’analyse de données et la création de visualisations interactives
+
+## **Pré-requis :**
+
+Afin de suivre cette formation dans de bonnes conditions, vos devez avoir des :
+
+- Connaissances de base en SQL avec n'importe quel SGBDR (Système de Gestion de Bases de Données Relationnelles) tels que SQLite, MySQL, PostgreSQL, etc. 
+
+- Connaissances de base en programmation avec R (pas obligatoire).
+
+- Notions de base en statistiques descriptives.
+
+
 ## **Module 1: Analyse Exploratoire des Données et Reporting avec SQL et R**
 
 ### **Objectif**
@@ -85,92 +105,100 @@ Développer des dashboards interactifs et professionnels avec Shiny et Shinydash
 
 2. **Composants d'un tableau de bord avec shinydashboard**
 
-assets/components.png
-
    - En-tête (Header)
 
    - Panneau latéral (Sidebar)
 
    - Partie principal du tableau de bord (Body)
 
-3. **Visualisations Interactives avec Plotly**
-   - Introduction à Plotly pour R
-   - Intégration de visualisations Plotly dans Shiny
+3. **Créez votre premier Tableau de Bord avec shinydashboard**
 
-4. **Interactivité Avancée**
-   - Utilisation des entrées réactives (inputs) pour dynamiser les visualisations
-   - Création de graphiques interactifs et réactifs
-   - Navigation avancée dans les dashboards
+   - Structurer l'interface Utilisateur (UI)
 
-#### **Projets Pratiques:**
-- Construire des sections interactives pour analyser les données clients, les tendances de location et les revenus.
+   - Création des sorties (tabbles, graphiques) dans la partie serveur
 
----
+   - Ajoutez des éléments interactifs et dynamiques dans le tableau de bord.
 
-### **Module 3: Construction d’un Dashboard pour une Société de Location de Films**
+4. **Template d'un Dashboard Multi-Menu**
 
-#### **Objectif:**
+   - Structurer un projet *.Rproj* pour la construire d'une Multi-App Shiny
+
+   - COnstruire un template que vous pourez utiliser dans n'importe quel projet
+
+
+## **Module 3: Construction d’un Dashboard pour une Société de Location de Films**
+
+### **Objectif:**
+
 Appliquer les compétences acquises pour construire un dashboard complet pour une société de location de films, de l'extraction des données à la visualisation interactive.
 
-#### **Contenu:**
+### **Contenu:**
 
 1. **Conception du Dashboard**
-   - Structurer et organiser le code du projet
+
+   - Structurer et organiser le code du projet 
+
    - Planification des besoins en visualisation et en interactivité
 
 2. **Développement du Dashboard**
+
    - Intégration des analyses SQL pour extraire les données nécessaires
+
    - Construction de visualisations Plotly pour les différentes sections (revenus, clients, tendances)
+
    - Mise en place des filtres et des sélections pour une interactivité utilisateur maximale
 
 3. **Finalisation et Optimisation**
+
    - Ajout de fonctionnalités avancées (bar charts, scatter plots, pie charts)
+
    - Optimisation de la performance et de la réactivité du dashboard
+
    - Conseils et meilleures pratiques pour un code Shiny propre et maintenable
 
-#### **Projets Pratiques:**
-- Créer un dashboard interactif et complet pour une société de location de films, comprenant toutes les analyses et visualisations nécessaires pour une prise de décision éclairée.
+## Bonus : Projet à réaliser
 
----
+Pour pratiquer tout ce que vous avez appris lors de cette formation, vous aurez un projet à réaliser. Vous soumettrez votre réalisation à la correction du Formateur afin de recevoir des conseils d'amélioration et de vous débloquer en cas de blocage.
 
-### **Conclusion**
-Cette formation vous fournira les compétences nécessaires pour devenir un Data Analyst efficace, capable d'extraire des insights pertinents des données et de les visualiser de manière interactive pour répondre aux besoins business. Vous serez en mesure de créer des dashboards professionnels qui apporteront une valeur ajoutée significative à toute organisation.
-
----
-
-### **Public Cible:**
-- Aspirants Data Analysts
-- Professionnels de l’analyse de données souhaitant améliorer leurs compétences
-- Toute personne intéressée par l’analyse de données et la création de visualisations interactives
-
-### **Pré-requis:**
-- Connaissances de base en programmation (R est un plus)
-- Notions de base en statistiques et en analyse de données
-
-### **Compétences Acquises à l'Issue de la Formation**
+## **Compétences Acquises à l'Issue de la Formation**
 
 À l'issue de cette formation, vous aurez acquis les compétences suivantes :
 
 1. **Maîtrise du SQL pour l'Analyse Exploratoire des Données**
+
    - Capacité à interroger des bases de données relationnelles pour extraire des informations pertinentes.
+
    - Compétence dans l'utilisation des fonctions d'agrégation et de groupement pour analyser les données.
+
    - Aptitude à réaliser des analyses exploratoires pour répondre à des questions business spécifiques.
 
 2. **Création de Dashboards Interactifs avec Shiny et Shinydashboard**
+
    - Connaissance approfondie de Shiny et de Shinydashboard pour créer des applications web interactives.
+
    - Compétence dans la conception et la mise en œuvre de dashboards avec une interface utilisateur intuitive.
+
    - Expertise dans l'intégration de visualisations Plotly pour des graphiques interactifs et dynamiques.
 
 3. **Développement de Dashboards Complets pour des Cas Pratiques**
+
    - Capacité à structurer et organiser le code pour un projet de dashboard complexe.
+
    - Compétence dans l'extraction des données nécessaires et la construction de visualisations adaptées.
+
    - Aptitude à optimiser la performance et la réactivité des dashboards pour une meilleure expérience utilisateur.
 
 4. **Interprétation des Données et Prise de Décisions Éclairées**
+
    - Capacité à extraire des insights pertinents à partir des données analysées.
+
    - Compétence dans la création de visualisations interactives qui facilitent la prise de décision.
+
    - Expertise dans l'analyse des relations entre différentes variables pour identifier les tendances et les comportements clés.
 
 Rejoignez-nous pour cette formation et transformez votre manière d'analyser et de visualiser les données pour des décisions business stratégiques.
 
-Rejoignez-nous pour cette formation et transformez votre manière d'analyser et de visualiser les données pour des décisions business stratégiques.
+
+## **Conclusion**
+
+Cette formation vous fournira les compétences nécessaires pour devenir un Data Analyst efficace, capable d'extraire des insights pertinents des données et de les visualiser de manière interactive pour répondre aux besoins business. Vous serez en mesure de créer des dashboards professionnels qui apporteront une valeur ajoutée significative à toute organisation.
