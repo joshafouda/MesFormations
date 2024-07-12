@@ -8,11 +8,11 @@ with col1:
 with col2:
     st.title("Josué AFOUDA", anchor=False)
     st.markdown("""
-#### Data Scientist Senior, accompagnant les entreprises dans la prise de décisions basées sur l'analyse et la moélisations des données ainsi que le développement de *Data Products*.
+#### Data Scientist Senior, accompagnant les entreprises dans la prise de décisions basées sur l'analyse et la modélisation des données ainsi que le développement de *Data Products*.
 
-Passionné par l'analyse de données, je suis spécilaiste dans la DataViz, l'Apprentissage Automatique, la construction d'applications Data Science et l'automatisation des processus. 
+Passionné par l'analyse de données, je suis spécialiste en DataViz, Machine Learning, Construction d'applications Data Science et Automatisation des processus Métier.
 
-Mon parcours professionnel inclut des rôles variés tels que Data Scientist, Développeur R & R Shiny, Data Analyst, Machine Learning Engineer et Développeur Python pour de grandes entreprises. 
+Mon parcours professionnel inclut des rôles variés tels que Data Scientist Python, R & SQL, Développeur R & R Shiny, Data Analyst SQL & R, Machine Learning Engineer PyTorch & Scikit-Learn, Développeur Python et Formateur dans de grandes entreprises. 
 
 Je suis également passionné par le partage du savoir, ce qui m'a conduit à créer une chaîne YouTube : [JADATATECHCONSULTING](https://www.youtube.com/c/JADATATECHCONSULTING). Les professionnels et passionnés de data peuvent aussi me retrouver sur LinkedIn : [Josué Afouda](https://www.linkedin.com/in/josué-afouda).
 

@@ -1,6 +1,6 @@
 import streamlit as st
 from utils import *
-from streamlit_player import st_player
+#from streamlit_player import st_player
 
 #  Afficher l'image de la formation
 img_formation1 = "assets/formation1.png"
@@ -9,9 +9,9 @@ st.image(str(img_formation1), width = 1400)
 st.write(" ")
 
 # Afficher la vidéo de présentation de la formation
-html_video = '''<iframe width="560" height="315" src="https://www.youtube.com/embed/SpXPIb6Jkfo?si=u9tajJf7jeHJVj6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'''
+#html_video = '''<iframe width="560" height="315" src="https://www.youtube.com/embed/SpXPIb6Jkfo?si=u9tajJf7jeHJVj6m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>'''
 # Affichage de la vidéo
-st_player(html_video)
+#st_player(html_video)
 
 st.write(" ")
 
